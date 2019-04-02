@@ -1,0 +1,8 @@
+[package]
+name = "array_generator"
+version = "0.1.0"
+authors = ["JUI-LUNG <jjoe0303@gmail.com>"]
+
+[dependencies]
+
+rand="0.3.0"
